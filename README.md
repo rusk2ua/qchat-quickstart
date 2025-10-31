@@ -5,6 +5,7 @@ Quick start guides and resources for getting started with Amazon Q Chat across d
 ## 📚 Guides
 
 - [Linux Quick Start Guide](linux-quickstart-guide.md) - Complete setup guide for Linux users
+- [Offical Q Developer CLI repo and guide](https://github.com/aws/amazon-q-developer-cli) - Guide for all users
 
 ## 🚀 What is Amazon Q Chat?
 
